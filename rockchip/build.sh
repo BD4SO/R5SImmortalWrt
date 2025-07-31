@@ -63,11 +63,6 @@ PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
-PACKAGES="$PACKAGES luci-app-aliddns"
-PACKAGES="$PACKAGES luci-app-vlmcsd"
-PACKAGES="$PACKAGES luci-app-ipsec-vpnd"
-PACKAGES="$PACKAGES luci-app-zerotier"
-PACKAGES="$PACKAGES luci-app-arpbind"
 # docker
 # PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 # 文件管理器
